@@ -1,5 +1,6 @@
 import streamlit as st
-from nba_api.stats.endpoints import leaguegamefinder, scheduleleaguev2
+from nba_api.stats.endpoints 
+import leaguegamefinder, scheduleleaguev2
 import pandas as pd
 from nba_api.stats.static import teams  
 
